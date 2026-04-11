@@ -2,13 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20My%20World&fontSize=80&fontAlignY=35&animation=twinkling&desc=I'm%20Tien%20-%20Software%20Developer%20&descAlignY=55" width="100%"/>
 </div>
 
-<h1 align="center">✦ Hi there, I'm Tien 👋 ✦</h1>
+<h1 align="center">✦ Hi there, I'm Tien ✦</h1>
 <h3 align="center">🚀 Full-Stack Developer | 🧠 AI & Deep Learning Enthusiast</h3>
 
 <p align="center">
+  <i>"Code is poetry written for machines to execute."</i>
+</p>
+
+<p align="center">
   <a href="https://github.com/vongovantien"><img src="https://komarev.com/ghpvc/?username=vongovantien&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></a>
-  <img src="https://img.shields.io/github/followers/vongovantien?label=Followers&style=for-the-badge&color=2196F3" />
-  <img src="https://img.shields.io/github/stars/vongovantien?label=Total%20Stars&style=for-the-badge&color=FFD700" />
 </p>
 
 <p align="center">
@@ -49,7 +51,18 @@
 <h2 align="center">🔥 Technologies & Tools</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,dotnet,ts,js,html,css,php,react,nextjs,angular,redux,django,flask,express,tailwind,bootstrap,sass,postgresql,mysql,mongodb,docker,jenkins,git,github,gitlab,elasticsearch" /></a>
+  <i>Languages & Core</i><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,dotnet,ts,js,html,css,php" /></a>
+</p>
+
+<p align="center">
+  <i>Frameworks & Libraries</i><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,django,flask,express,tailwind,bootstrap,sass" /></a>
+</p>
+
+<p align="center">
+  <i>Database, Cloud & DevOps</i><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,jenkins,git,github,gitlab,elasticsearch" /></a>
 </p>
 
 ---
@@ -57,17 +70,20 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vongovantien&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vongovantien&theme=dark&hide_border=true&cache_seconds=86400" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vongovantien&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vongovantien&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" height="180" alt="Top Languages" />
+  <!-- Biểu đồ đóng góp 3D Snake (Để con Rắn chạy được, bạn cần cài đặt Github Action Snake trước. Khi nào cài xong thì bỏ dấu comment bên dưới ra nhé!) -->
+  <!-- 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vongovantien/vongovantien/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vongovantien/vongovantien/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vongovantien/vongovantien/output/github-contribution-grid-snake.svg" width="90%">
+  </picture>
+  -->
 </div>
 
 ---
